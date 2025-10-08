@@ -1,5 +1,8 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/yiluansong/yiluansong.r-universe.dev
 	branch = HEAD
+[submodule "BatchPlanet"]
+	path = BatchPlanet
+	url = https://github.com/zhulabgroup/BatchPlanet
+	branch = release
