@@ -1,0 +1,10 @@
+{
+  "id": 89168904,
+  "created_at": "2025-10-08T03:29:45.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["yiluansong.r-universe.dev"]
+}
